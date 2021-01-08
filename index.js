@@ -3,7 +3,7 @@ const client = new discord.Client();
 
 client.on("ready", () => {
     console.log("[--------------------- R E A D Y ---------------------]");
-    client.user.setActivity("I am NQN 2");
+    client.user.setActivity(",h | Added nqn");
 })
 
 client.on("message", async (message) => {
@@ -51,7 +51,7 @@ client.on("message", async (message) => {
 
 
 
-client.login("NzI1MDI2NDg3NjE0MzA4NDMz.XvIviA.cyfOXZn987pX9ZRNO9lDjwSRPGQ");
+client.login("Nzc3MDM2MzQ0Mjc4NTE1NzEy.X69lfQ.qUEIez8p3cTdzupyX6jQDUJSApg");
 
 
 //--------------------------------------------------- F U N C T I O N S --------------------------------------
